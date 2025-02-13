@@ -90,3 +90,11 @@ print("Discipline:", Team_information[4]["Discipline"])
 print("Preferred Programming language:", Team_information[4]["Preferred Programming language"])
 
 GITHUB LINKS FOR TEAM MEMBERS
+#Adegite Adejuwon: https://github.com/A-Adegite/HackBio_Biocoding
+#Adewuyi Emmanuel: https://github.com/Emmanueladewuyi/Hackbio-Bio-coding-Internship-.git
+#Mgbafulu Chioma: https://github.com/azarya23/hackbio-biocoding-internship..git
+#Ajudua Sharon: https://github.com/SharonAjudua/Hackbio-Biocoding_Internship_Files
+#Maurice Godwin: https://github.com/Maurice31-prog-coder/Maurice31-prog-coder/
+
+#LinkedIn Post link:
+#URL: https://www.linkedin.com/posts/chioma-mgbafulu_hackbio-biocoding-python-activity-7294001064700182529-0vD3/
